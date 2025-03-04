@@ -1,8 +1,8 @@
 <template>
     <div class="loginBody">
       <div class="login-header">
-        <img src="../assets/pictures/logo1.png" alt="学院Logo" >
-        <h1>实验室药品管理系统</h1>
+<!--        <img src="../assets/pictures/logo1.png" alt="学院Logo" >-->
+        <h1>pms</h1>
       </div>
 
 
@@ -110,8 +110,8 @@
         width: 100%;
         height: 100%;
         /*background-color: #B3C0D1;*/
-      background: url("../assets/pictures/WechatIMG835.jpg") center center no-repeat;
-      background-size: 100% 100%;
+      /*background: url("../assets/pictures/WechatIMG835.jpg") center center no-repeat;*/
+      /*background-size: 100% 100%;*/
     }
     .loginDiv {
         position: absolute;

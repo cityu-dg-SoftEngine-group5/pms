@@ -4,7 +4,7 @@
       <i :class="icon" style="font-size: 20px;cursor: pointer;" @click="collapse"></i>
     </div>
     <div style="flex: 1;text-align: center;font-size: 30px;">
-      <span>西南大学实验室药品管理系统</span>
+      <span>pms</span>
       <el-tag size="medium" type="success" style="display: inline-block; margin-left: 10px;">{{user.lab}}</el-tag>
     </div>
     <el-dropdown>
